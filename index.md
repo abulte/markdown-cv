@@ -19,7 +19,7 @@ Développeur _freelance_ sur [data.gouv.fr](https://www.data.gouv.fr) chez [Etal
 
 Après une formation d'ingénieur spécialisé en informatique, j'ai fait mes premières armes sur les métiers du SI en tant que développeur, chef de projet et expert technique dans une grance société de services (Unilog / Logica).
 
-J'ai ensuite choisi de me rapprocher du monde du logiciel libre et de mettre mon expertise au service d'une plus petite structure spécialisée dans l'open source (Alterway). En plus de continuer à y développer mes compétences existantes, j'ai également exercé des fonctions à l'interface entre le commercial et le technique en tant que responsable avant-vente.
+J'ai ensuite choisi de me rapprocher du monde du logiciel libre, qui m'a toujours passionné, et de mettre mon expertise au service d'une plus petite structure spécialisée dans l'_open source_ (Alterway). En plus de continuer à y développer mes compétences existantes, j'ai également exercé des fonctions à l'interface entre le commercial et le technique en tant que responsable avant-vente.
 
 Depuis 2012, je suis développeur et consultant en _freelance_ et j'ai eu la chance d'accompagner des équipes très diverses, dans des environnements technologiques différents et avec des responsabilités allant du développement à la direction technique.
 
